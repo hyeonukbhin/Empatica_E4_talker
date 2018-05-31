@@ -44,7 +44,7 @@ catkin_make
 
 
 ### empatica_e4_msgs Build
-- [empatica_e4_msgs : Github](https://github.com:hyeonukbhin/empatica_e4_msgs)
+- [empatica_e4_msgs : Github](https://github.com/hyeonukbhin/empatica_e4_msgs)
 
 ## App Build
 1. android_core 를 Android Studio에서 Project로 OPEN
