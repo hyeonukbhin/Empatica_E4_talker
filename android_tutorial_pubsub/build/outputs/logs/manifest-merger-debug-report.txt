@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:2:117-166
+		INJECTED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml
+		INJECTED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml
+		INJECTED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:2:70-116
+	xmlns:android
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml
+		INJECTED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:4:5-67
+MERGED from [com.empatica.empalink:empalink:2.1] /home/kist/.android/build-cache/4e6a68bb5c28ba4eacdb85971a86006fde32ea23/output/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:5:5-68
+MERGED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:6:5-78
+MERGED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:6:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:7:22-78
+application
+ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:10:5-31:19
+MERGED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:18:5-34:19
+MERGED from [com.empatica.empalink:empalink:2.1] /home/kist/.android/build-cache/4e6a68bb5c28ba4eacdb85971a86006fde32ea23/output/AndroidManifest.xml:19:5-24:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/kist/.android/build-cache/8f15896ee60b500c861f5b95cccbc52476c008fd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/kist/.android/build-cache/53e9e69b0c2b379e219b21326698f38f3cf6fb73/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/kist/.android/build-cache/ef30c196431693bb0877e8df51e3bb4813a730f9/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/kist/.android/build-cache/978f3f7a44cab7571c7ddbee034be32baa665f73/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/kist/.android/build-cache/d3a7b60054341c1b93677f9b6628e222a72dc191/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/kist/.android/build-cache/62a88fc0d6e2451c8e70146f1c3366ee2ec15975/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/kist/.android/build-cache/118c421ec04c04e32572154651a00bcae4a67283/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/kist/.android/build-cache/06f3689a5ddbf6247ea8e514c2425b78c5da27aa/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/kist/.android/build-cache/89b790189f595155cf29c519575306d1d7b9cd67/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:11:9-43
+		REJECTED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:19:9-36
+	android:theme
+		ADDED from [com.empatica.empalink:empalink:2.1] /home/kist/.android/build-cache/4e6a68bb5c28ba4eacdb85971a86006fde32ea23/output/AndroidManifest.xml:22:9-40
+	tools:replace
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:13:9-37
+activity#org.ros.android.android_tutorial_pubsub.MainActivity
+ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:16:13-80
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:21:27-74
+activity#org.ros.android.MasterChooser
+ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:24:9-66
+MERGED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:21:9-25:54
+	android:label
+		ADDED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:23:13-45
+	android:launchMode
+		ADDED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:24:13-42
+	android:theme
+		ADDED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:25:13-51
+	android:name
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:24:19-63
+service#org.ros.android.NodeMainExecutorService
+ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:26:9-30:19
+MERGED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:27:9-33:19
+	tools:ignore
+		ADDED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:29:13-43
+	android:name
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:26:18-72
+intent-filter#org.ros.android.NodeMainExecutorService
+ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:27:13-29:29
+action#org.ros.android.NodeMainExecutorService
+ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:28:17-82
+	android:name
+		ADDED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:28:25-79
+uses-sdk
+INJECTED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:8:5-10:41
+MERGED from [com.empatica.empalink:empalink:2.1] /home/kist/.android/build-cache/4e6a68bb5c28ba4eacdb85971a86006fde32ea23/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/kist/.android/build-cache/8f15896ee60b500c861f5b95cccbc52476c008fd/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] /home/kist/.android/build-cache/53e9e69b0c2b379e219b21326698f38f3cf6fb73/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/kist/.android/build-cache/ef30c196431693bb0877e8df51e3bb4813a730f9/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/kist/.android/build-cache/978f3f7a44cab7571c7ddbee034be32baa665f73/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/kist/.android/build-cache/d3a7b60054341c1b93677f9b6628e222a72dc191/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/kist/.android/build-cache/62a88fc0d6e2451c8e70146f1c3366ee2ec15975/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/kist/.android/build-cache/118c421ec04c04e32572154651a00bcae4a67283/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/kist/.android/build-cache/06f3689a5ddbf6247ea8e514c2425b78c5da27aa/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] /home/kist/.android/build-cache/89b790189f595155cf29c519575306d1d7b9cd67/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/kist/.android/build-cache/8f15896ee60b500c861f5b95cccbc52476c008fd/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml
+		INJECTED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml
+		INJECTED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [org.ros.android_core:android_10:0.3.3] /home/kist/android_core/android_10/build/intermediates/bundles/default/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/kist/android_core/android_tutorial_pubsub/AndroidManifest.xml:2:1-33:12 reason: org.ros.android.android_10 requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.empatica.empalink:empalink:2.1] /home/kist/.android/build-cache/4e6a68bb5c28ba4eacdb85971a86006fde32ea23/output/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [com.empatica.empalink:empalink:2.1] /home/kist/.android/build-cache/4e6a68bb5c28ba4eacdb85971a86006fde32ea23/output/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [com.empatica.empalink:empalink:2.1] /home/kist/.android/build-cache/4e6a68bb5c28ba4eacdb85971a86006fde32ea23/output/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from [com.empatica.empalink:empalink:2.1] /home/kist/.android/build-cache/4e6a68bb5c28ba4eacdb85971a86006fde32ea23/output/AndroidManifest.xml:12:22-71
+uses-feature#android.hardware.bluetooth_le
+ADDED from [com.empatica.empalink:empalink:2.1] /home/kist/.android/build-cache/4e6a68bb5c28ba4eacdb85971a86006fde32ea23/output/AndroidManifest.xml:15:5-17:35
+	android:required
+		ADDED from [com.empatica.empalink:empalink:2.1] /home/kist/.android/build-cache/4e6a68bb5c28ba4eacdb85971a86006fde32ea23/output/AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from [com.empatica.empalink:empalink:2.1] /home/kist/.android/build-cache/4e6a68bb5c28ba4eacdb85971a86006fde32ea23/output/AndroidManifest.xml:16:9-53
+service#com.empatica.empalink.EmpaLinkBLE
+ADDED from [com.empatica.empalink:empalink:2.1] /home/kist/.android/build-cache/4e6a68bb5c28ba4eacdb85971a86006fde32ea23/output/AndroidManifest.xml:23:9-69
+	android:name
+		ADDED from [com.empatica.empalink:empalink:2.1] /home/kist/.android/build-cache/4e6a68bb5c28ba4eacdb85971a86006fde32ea23/output/AndroidManifest.xml:23:18-66

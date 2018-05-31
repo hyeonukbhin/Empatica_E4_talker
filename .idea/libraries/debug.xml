@@ -1,0 +1,51 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.lang-2.4.0_8a4a62d5a50e8e37e6cf791a458740f6bce7e7b7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/apache_xmlrpc_client-0.3.5_d39e2ea6bf32637986cea785af00e8d73d4a0fda.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.codec-1.3.0_e78b40dcf6a4d2b894ce75fb737fbb56968ec967.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.httpclient-3.1.0_03db23be062e437525d05a5f142702bc954b8986.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/okio-1.6.0_0681a3f1004c7371b7c106814acdd765cd94bf18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_8990b8f8df3e5253b6226d77560cfe783d2beaa2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.empatica.empalink-empalink-2.1_2c43218f07175d4c7cda637926c2861b55796ea9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/debug_b699909e423467fffce67e96d53bb40cf1b339b5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/ws-commons-util-1.0.1_7df4e8106c1657951b89cd1b7fbc147d8991c93b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/geometry_msgs-1.12.5_527c093ab9ee26258f78e07e3bf915ca8eb00909.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/tf2_msgs-0.5.15_d9ba419c68d87b1b52c54ec2184fae118bf1ae1c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/message_generation-0.3.0_cd03061ded3785effe43d31d0679a8565656f78f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/apache_xmlrpc_server-0.3.5_e75467e82c524f897fb28c4cdd4046401a686555.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/netty-3.5.2.Final_eb743fac3b464316ca18a98c52aae6ba25b646aa.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/rosgraph_msgs-1.11.2_24d12c9e6c29503342722af8922ba26ce8870483.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/apache_xmlrpc_common-0.3.5_8e45e1c4edf0f68afe4dd33fb0d082e272c5934a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.io-1.4.0_de1fb870de73a9f57e1065432dd5641ee49f6169.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/actionlib_msgs-1.12.5_44ba6e7db84ef51585090c2a4218015afc1b937f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/sensor_msgs-1.12.5_d2f9e834abb816671372aefb449f23924de3530d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_d1da13ab6e972fdc1e12b16d19a7d56242cbbb43.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_b8fb46c23c39f0586331225187101a05a5179896.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/nav_msgs-1.12.5_1316438a20ace15d05addf9c79f19e3e106c66a7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/org.ros.android_core-android_10-0.3.2_3df1c7439caef005f3ebd69b332e95ea481a71d0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/rosjava-0.3.5_94ea89e16a927270f5b71dc3003c467e3541e411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_910729ec9ba3ed45d80c4a496271db84d4361514.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_4e6a47c0fccb8134f222848821e285b7a964948e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/commons-pool-1.6_3db6908c827cb4316ed86d1cba9e670c21dad848.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.logging-1.1.1_73038b1b305ebd533cdd5690d49b7d0fbba14b8f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/rosjava_test_msgs-0.3.0_234051b850986f5def71494008d5954794574446.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/rosjava_tutorial_pubsub-0.3.5_ae5d5d80dc7591d97a787cd718894cd30368b484.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/diagnostic_msgs-1.12.5_1fc8969b39be9ceb11ed81321e3d29b981a9dd1e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_38cf3b91dd4758eb5c37daf093a59e2ee429052e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/gradle_plugins-0.3.0_7189531d7ef8124682b2399d9077b73329a8da89.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/guava-12.0_cd21bc4108cca09ea5a5706b2387ea0556fa33fb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/jsr305-1.3.9_9acafcb53f1cacb0ad09f2ced556099ff8d4def5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_5d6b7fe8761b5c688f3be5c8ab7a290da4fe5711.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_758f7f94f2f6c2283ab587b6b89bdd3a7f8b91a5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/dnsjava-2.1.1_69f111f97a9511ac5ae651b173bfb935c1066721.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_a60063c1c85af554c239d3264e3d67ac8ca44afa.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/std_msgs-0.5.10_6d59aaae62cf7654d232495c11381e551577b120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.net-2.0.0_9909779ab77f7b975167b708716e7a4804eab39a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_9579eed06cc7c3bbddb06ec17be0b3eb237953e3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/okhttp-2.5.0_8ee85b7dd21ec7b8abe4ff1b10eba416d947bb6d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,4 @@
+#Thu May 31 14:20:16 KST 2018
+base.0=/home/kist/android_core/android_tutorial_pubsub/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/kist/android_core/android_tutorial_pubsub/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

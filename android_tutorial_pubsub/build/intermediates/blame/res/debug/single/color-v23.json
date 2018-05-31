@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/kist/android_core/android_tutorial_pubsub/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/kist/.android/build-cache/8f15896ee60b500c861f5b95cccbc52476c008fd/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/kist/android_core/android_tutorial_pubsub/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/kist/.android/build-cache/8f15896ee60b500c861f5b95cccbc52476c008fd/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/kist/android_core/android_tutorial_pubsub/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/kist/.android/build-cache/8f15896ee60b500c861f5b95cccbc52476c008fd/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/kist/android_core/android_tutorial_pubsub/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/kist/.android/build-cache/8f15896ee60b500c861f5b95cccbc52476c008fd/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/kist/android_core/android_tutorial_pubsub/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/kist/.android/build-cache/8f15896ee60b500c861f5b95cccbc52476c008fd/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/kist/android_core/android_tutorial_pubsub/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/kist/.android/build-cache/8f15896ee60b500c861f5b95cccbc52476c008fd/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/kist/android_core/android_tutorial_pubsub/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/kist/.android/build-cache/8f15896ee60b500c861f5b95cccbc52476c008fd/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/kist/android_core/android_tutorial_pubsub/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/kist/.android/build-cache/8f15896ee60b500c861f5b95cccbc52476c008fd/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/kist/android_core/android_tutorial_pubsub/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/kist/.android/build-cache/8f15896ee60b500c861f5b95cccbc52476c008fd/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/kist/android_core/android_tutorial_pubsub/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/kist/.android/build-cache/8f15896ee60b500c861f5b95cccbc52476c008fd/output/res/color-v23/abc_tint_btn_checkable.xml"
+    }
+]

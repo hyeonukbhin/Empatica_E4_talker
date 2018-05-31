@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kist/android_core/android_tutorial_pubsub/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/kist/.android/build-cache/8f15896ee60b500c861f5b95cccbc52476c008fd/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/kist/android_core/android_tutorial_pubsub/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/kist/.android/build-cache/8f15896ee60b500c861f5b95cccbc52476c008fd/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
