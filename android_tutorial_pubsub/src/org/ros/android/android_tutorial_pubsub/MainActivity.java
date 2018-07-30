@@ -99,7 +99,7 @@ public class MainActivity extends RosActivity implements EmpaDataDelegate, EmpaS
   int [] dataListAccX = new int [30];
   int [] dataListAccY = new int [30];
   int [] dataListAccZ = new int [30];
-  float [] dataListAcc_Time = new float [30];
+  double [] dataListAcc_Time = new double [30];
 
   boolean flag = true;
   public MainActivity() {
@@ -318,7 +318,7 @@ public class MainActivity extends RosActivity implements EmpaDataDelegate, EmpaS
     dataListAccX[29] = x;
     dataListAccY[29] = y;
     dataListAccZ[29] = z;
-    dataListAcc_Time[29] = (float) timestamp;
+    dataListAcc_Time[29] = timestamp;
 
     updateLabel(accel_xLabel, "" + x);
     updateLabel(accel_yLabel, "" + y);
@@ -336,7 +336,10 @@ public class MainActivity extends RosActivity implements EmpaDataDelegate, EmpaS
     }
     dataListBVP[29] = bvp;
     dataListBVP_Time[29] = timestamp;
+//    Double unixTime = (double)System.currentTimeMillis();
+//    unixTime = unixTime/1000;
     updateLabel(bvpLabel, ""+bvp);
+
   }
 
   @Override
@@ -458,9 +461,9 @@ public class MainActivity extends RosActivity implements EmpaDataDelegate, EmpaS
         protected void loop() throws InterruptedException {
 
           empatica_e4_msgs.DataArrays data = (empatica_e4_msgs.DataArrays)publisher.newMessage();
-
+          Float unixTime = (float)System.currentTimeMillis();
+          unixTime = unixTime/1000;
           String tmp_topic = "";
-
           if (data_status == 0) {
             tmp_topic = "READY";
           } else if (data_status == 2) {
@@ -474,6 +477,8 @@ public class MainActivity extends RosActivity implements EmpaDataDelegate, EmpaS
             data.setEda(dataListEDA);
             data.setIbi(dataListIBI);
             data.setSkinTemp(dataListTEMP);
+//            Double unixTime2 = (double)System.currentTimeMillis();
+//            unixTime2 = unixTime2/1000;
             data.setTimestamp(dataListAcc_Time[0]);
             data.setCount(this.sequenceNumber);
             data.setLoopRate(4);
