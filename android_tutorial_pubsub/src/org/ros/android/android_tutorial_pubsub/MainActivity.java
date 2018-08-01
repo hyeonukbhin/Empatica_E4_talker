@@ -464,6 +464,7 @@ public class MainActivity extends RosActivity implements EmpaDataDelegate, EmpaS
           Float unixTime = (float)System.currentTimeMillis();
           unixTime = unixTime/1000;
           String tmp_topic = "";
+          int loop_rate = 4;
           if (data_status == 0) {
             tmp_topic = "READY";
           } else if (data_status == 2) {
@@ -481,12 +482,12 @@ public class MainActivity extends RosActivity implements EmpaDataDelegate, EmpaS
 //            unixTime2 = unixTime2/1000;
             data.setTimestamp(dataListAcc_Time[0]);
             data.setCount(this.sequenceNumber);
-            data.setLoopRate(4);
+            data.setLoopRate(loop_rate);
           }
 
           publisher.publish(data);
           ++this.sequenceNumber;
-          Thread.sleep(1000/250);
+          Thread.sleep(1000/loop_rate);
         }
       });
     }
